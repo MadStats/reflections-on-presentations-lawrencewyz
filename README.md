@@ -5,10 +5,10 @@ For each presentation, copy-and-paste then fill-in-the-blanks.  You must comment
 
 
 Title of presentation: 
-Fragile Families
+\n Fragile Families
 
 What were aspects of the presentation that you liked:
-The data is really interesting in my opnion, and I do like how the team put in effort to explain the data that they have. Since the amount of predictors is large and could be confusing.
+/n The data is really interesting in my opnion, and I do like how the team put in effort to explain the data that they have. Since the amount of predictors is large and could be confusing.
 
 What were aspects of the presentations for which you had concerns or questions:
 I'm a bit concerned about the fact that the analysis does not seem to support the thesis. In addition, the relationship between interested predictors and the goal of the project is not clearly identified in my opnion.
