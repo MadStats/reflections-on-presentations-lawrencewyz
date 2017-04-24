@@ -124,5 +124,3 @@ What were aspects of the presentations for which you had concerns or questions:
 When choosing interested factors, is there any better way to do such thing? Since I think choosing the factors voluntarily would hurt the results of the analysis.
 
 
-
-
