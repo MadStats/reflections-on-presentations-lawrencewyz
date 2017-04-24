@@ -71,18 +71,57 @@ Title of presentation:
 Games
 
 What were aspects of the presentation that you liked:
+The hope for identifing the potential ways to win the game is really interesting to start with.
 
 What were aspects of the presentations for which you had concerns or questions:
-
+It is not clear that how the models work, or even what are the variable that the group is interested in. Many terms need more explaination as well. The goal of the project seems a bit disorganized.
 
 
 
 Title of presentation:
+H1B(Our Group)
+
+
+
+Title of presentation:
+Car Accident
 
 What were aspects of the presentation that you liked:
+The analysis for this project is thorough, and the amount of data that used for this project is very large.
 
 What were aspects of the presentations for which you had concerns or questions:
+All the plots that included in this presentation are the residuals plots, using more meaning for this analysis and presentation might be more interesting.
 
+
+
+Title of presentation:
+Songs
+
+What were aspects of the presentation that you liked:
+The idea that analysing songs, and the use of applying all the sources that pulling from all kinds of directions. 
+
+What were aspects of the presentations for which you had concerns or questions:
+The uses of the resources do not seem to be clear, and a detailed thesis statement might be needed since it was shown clearly in the presentation.
+
+
+Title of presentation:
+NBA
+
+What were aspects of the presentation that you liked:
+The data for the players are really interesting. In addition, the heat map for the player to monitor his movement throughout the game is pretty amazing!
+
+What were aspects of the presentations for which you had concerns or questions:
+First, the overtime is when the true star really shines, so could that hurt your analysis? The focus of the this project is yet be clarified. Seems to me that the team is a bit unsure which factors are the important ones.
+
+
+Title of presentation:
+Terrorism
+
+What were aspects of the presentation that you liked:
+The animation that shows the change over time looks really cool, and it does help with noticing some interesting changes throughout the time.
+
+What were aspects of the presentations for which you had concerns or questions:
+When choosing interested factors, is there any better way to do such thing? Since I think choosing the factors voluntarily would hurt the results of the analysis.
 
 
 
